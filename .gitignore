@@ -1,0 +1,26 @@
+# Environment & Secrets
+.env
+.env.local
+*.env
+
+# Python & Backend
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+env/
+*.sqlite3
+
+# Frontend & Dependencies
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# System & IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
